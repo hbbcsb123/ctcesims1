@@ -8,3 +8,4 @@ use pdf.js to support mainly browsers ,simultanesously use another way to make I
 
 the plugins we used including openOffice (to turn doc/xls/ppt into pdf), flexpaper(to display swf ), swftools(to turn pdf into swf)
 
+##t
